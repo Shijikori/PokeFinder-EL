@@ -3,4 +3,4 @@
 	url = https://github.com/facebook/zstd.git
 [submodule "Core/Resources/EncounterTables"]
 	path = Core/Resources/EncounterTables
-	url = https://github.com/Admiral-Fish/EncounterTableGenerator
+	url = https://github.com/Shijikori/EncounterTableGenerator-EL.git
