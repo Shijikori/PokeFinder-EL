@@ -1,86 +1,143 @@
 0,Route 101
-1,Route 102
-2,Route 103
-3,Route 104
-4,Route 105
-5,Route 110
-6,Route 111
-7,Route 112
-8,Route 113
-9,Route 114
-10,Route 116
-11,Route 117
-12,Route 118
-13,Route 124
-14,Petalburg Woods
-15,Rusturf Tunnel
-16,Granite Cave 1F
-17,Granite Cave B1F
-18,Mt Pyre 1F-3F
-19,Victory Road 1F
-20,Safari Zone South
-21,Route 126 Underwater
-22,Abandoned Ship
-23,Granite Cave B2F
-24,Fiery Path
-25,Meteor Falls B1F 2R
-26,Jagged Pass
-27,Route 106
-28,Route 107
-29,Route 108
-30,Route 109
-31,Route 115
-32,New Mauville Inside
-33,Route 119
-34,Route 120
-35,Route 121
-36,Route 122
-37,Route 123
-40,Mt Pyre 4F-6F
-43,Mt Pyre Exterior
-44,Mt Pyre Summit
-45,Granite Cave Stevens Room
-46,Route 125
-47,Route 126
-48,Route 127
-49,Route 128
-50,Route 129
-51,Route 130
-52,Route 131
-53,Route 132
-54,Route 133
-55,Route 134
-62,Seafloor Cavern
-66,Cave Of Origin Entrance
-67,Cave Of Origin 1F
-71,New Mauville Entrance
-72,Safari Zone Southwest
-73,Safari Zone North
-74,Safari Zone Northwest
-75,Victory Road B1F
-76,Victory Road B2F
-77,Meteor Falls 1F 1R
-78,Meteor Falls 1F 2R
-79,Meteor Falls B1F 1R
-82,Shoal Cave
-84,Lilycove City
-85,Dewford Town
-86,Slateport City
-87,Mossdeep City
-88,Pacifidlog Town
-89,Ever Grande City
-90,Petalburg City
-91,Route 124 Underwater
-92,Shoal Cave Ice Room
-93,Sky Pillar 1F
-94,Sootopolis City
-95,Sky Pillar 3F
-96,Sky Pillar 5F
-97,Safari Zone Southeast
-98,Safari Zone Northeast
-99,Magma Hideout
-107,Mirage Tower
-111,Desert Underpass
-112,Artisan Cave
-114,Altering Cave
-123,Meteor Falls Stevens Cave
+1,Route 101N
+2,Route 102
+3,Route 103
+4,Route 104
+5,Route 105
+6,Route 110
+7,Route 111
+8,Route 112
+9,Route 113
+10,Route 114
+11,Route 116
+12,Route 117
+13,Route 118
+14,Route 124
+15,Petalburg Woods
+16,Rusturf Tunnel
+17,Granite Cave 1F
+18,Granite Cave B1F
+19,Mt Pyre 1F
+20,Victory Road 1F
+21,Safari Zone South
+22,Route 126 Underwater
+23,Abandoned Ship B1F
+24,Granite Cave B2F
+25,Fiery Path
+26,Meteor Falls B1F 2R
+27,Jagged Pass
+28,Route 106
+29,Route 107
+30,Route 108
+31,Route 109
+32,Route 115
+33,New Mauville Inside
+34,Route 119
+35,Route 120
+36,Route 121
+37,Route 122
+38,Route 123
+39,Mt Pyre 2F
+40,Mt Pyre 3F
+41,Mt Pyre 4F
+42,Mt Pyre 5F
+43,Mt Pyre 6F
+44,Mt Pyre Exterior
+45,Mt Pyre Summit
+46,GC Steven's Room
+47,Route 125
+48,Route 126
+49,Route 127
+50,Route 128
+51,Route 129
+52,Route 130
+53,Route 131
+54,Route 132
+55,Route 133
+56,Route 134
+57,Abandoned Ship Hidden F
+58,Seafloor Cavern 1R
+59,Seafloor Cavern 2R
+60,Seafloor Cavern 3R
+61,Seafloor Cavern 4R
+62,Seafloor Cavern 5R
+63,Seafloor Cavern 6R
+64,Seafloor Cavern 7R
+65,Seafloor Cavern 8R
+66,Seafloor Cavern Entr.
+67,Cave of Origin Entrance
+68,Cave of Origin 1F
+69,Cave of Origin UnRS 1
+70,Cave of Origin UnRS 2
+71,Cave of Origin UnRS 3
+72,New Mauville Entrance
+73,Safari Zone SouthWest
+74,Safari Zone North
+75,Safari Zone NorthWest
+76,Victory Road B1F
+77,Victory Road B2F
+78,Meteor Falls 1F 1R
+79,Meteor Falls 1F 2R
+80,Meteor Falls B1F 1R
+81,Shoal Cave LT Stairs
+82,Shoal Cave LT Lower R
+83,Shoal Cave LT Inner R
+84,Shoal Cave LT Entrance
+85,Lilycove City
+86,Dewford Town
+87,Slateport City
+88,Mossdeep City
+89,Pacifilog Town
+90,Ever Grande City
+91,Petalburg City
+92,Underwater Route 124
+93,Shoal Cove LT Ice R
+94,Sky Pillar 1F
+95,Sootopolis City
+96,Sky Pillar 3F
+97,Sky Pillar 5F
+98,Safari Zone SouthEast
+99,Safari Zone NorthEast
+100,Magma Hideout 1F
+101,Magma Hideout 2F 1R
+102,Magma Hideout 2F 2R
+103,Magma Hideout 3F 1R
+104,Magma Hideout 3F 2R
+105,Magma Hideout 4F
+106,Magma Hideout 3F 3R
+107,Magma Hideout 2F 3R
+108,Mirage Tower 1F
+109,Mirage Tower 2F
+110,Mirage Tower 3F
+111,Mirage Tower 4F
+112,Desert Underpass
+113,Artisan Cave B1F
+114,Artisan Cave 1F
+115,Altering Cave 1
+116,Altering Cave 2
+117,Altering Cave 3
+118,Altering Cave 4
+119,Altering Cave 5
+120,Altering Cave 6
+121,Altering Cave 7
+122,Altering Cave 8
+123,Altering Cave 9
+124,Altering Cave 10
+125,MF Stevens Cave
+126,Navel Rock UP 4
+127,Navel Rock UP 3
+128,Navel Rock UP 2
+129,Navel Rock UP 1
+130,Navel Rock DW 1
+131,Navel Rock DW 2
+132,Navel Rock DW 3
+133,Navel Rock DW 4
+134,Navel Rock DW 5
+135,Navel Rock DW 6
+136,Navel Rock DW 7
+137,Navel Rock DW 8
+138,Navel Rock DW 9
+139,Navel Rock DW 10
+140,Navel Rock DW 11
+141,Navel Rock B1F
+142,Navel Rock Fork

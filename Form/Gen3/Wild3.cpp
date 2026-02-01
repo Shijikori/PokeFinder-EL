@@ -115,8 +115,11 @@ Wild3::Wild3(QWidget *parent) : QWidget(parent), ui(new Ui::Wild3)
     connect(ui->filterSearcher, &Filter::showStatsChanged, searcherModel, &WildSearcherModel3::setShowStats);
 
     updateProfiles();
+    /*
     generatorEncounterIndexChanged(0);
     searcherEncounterIndexChanged(0);
+    generatorLocationIndexChanged(0);
+    searcherLocationIndexChanged(0);*/
 
     QSettings setting;
     if (setting.contains("wild3/geometry"))

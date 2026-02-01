@@ -16,6 +16,9 @@ def embed_strings(paths):
 
             string_data = bytes()
             for line in data:
+                if line == '':
+                    print("skipped this line")
+                    continue
                 if "forms" in file:
                     entries = line.split(",")
                     line = f"{(int(entries[1]) << 11) | int(entries[0])},{entries[2]}"
