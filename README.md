@@ -1,4 +1,6 @@
-# PokéFinder
+# PokéFinder (Emerald Legacy Fork)
+
+**This is a fork which changes the Emerald encounters to be the Emerald Legacy romhack encounters!**
 
 Join the PokéFinder Discord server to talk about development and contribute.
 
